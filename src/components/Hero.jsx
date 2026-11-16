@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import heroImg from "../assets/hero3.png";
+import heroImg from "../assets/hero4.png";
 const Hero = () => {
   return (
     <section className="bg-zinc-50 border-b border-gray-200">
